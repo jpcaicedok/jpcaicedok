@@ -37,7 +37,6 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',mo
 <rect x="48" y="126" width="11" height="24" fill="#e05cd6" style="animation:c2 16s steps(34) infinite;animation-delay:8s"/></g><g class="ln" style="animation-delay:12s"><text x="48" y="146" font-size="22" textLength="435.6" lengthAdjust="spacing" fill="#46d9c5" style="fill:#46d9c5">AI apps: OpenAI · Claude · Gemini</text>
 <rect x="46" y="124" width="457.6" height="30" fill="#0b0e14" style="animation:c3 16s steps(33) infinite;animation-delay:12s"/>
 <rect x="48" y="126" width="11" height="24" fill="#e05cd6" style="animation:c3 16s steps(33) infinite;animation-delay:12s"/></g>
-<text x="48" y="186" font-size="14" style="fill:#8b95a7">classical  ·  techno  ·  motorcycles</text>
 <line x1="0" x2="900" y1="262" y2="262" stroke="#2a3242" stroke-width="2"/>
 <rect y="262" width="900" height="38" fill="#0b0e14" opacity=".0"/>
 <line class="dash" x1="0" x2="900" y1="282" y2="282" stroke="#2a3242" stroke-width="2" stroke-dasharray="24 20"/>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 84" width="900" height="84" role="img" aria-label="Open the interactive portfolio"><title>Open the interactive portfolio</title><style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#e8ebf1}
+.m{fill:#8b95a7}
+.w{transform-box:fill-box;transform-origin:center;animation:spin .55s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.a{animation:a 0.9231s ease-in-out infinite}
+@keyframes a{50%{transform:translateX(10px)}}
+.p{transform-box:fill-box;transform-origin:center;animation:p 0.9231s ease-out infinite}
+@keyframes p{0%{transform:scale(1);opacity:.8}100%{transform:scale(2.6);opacity:0}}
+</style><rect width="900" height="84" rx="14" fill="#0b0e14"/><rect x="1" y="1" width="898" height="82" rx="14" fill="#121722" stroke="#e05cd6" stroke-width="2"/>
+<circle class="p" cx="46" cy="42" r="8" fill="none" stroke="#e05cd6" stroke-width="2"/><circle cx="46" cy="42" r="7" fill="#e05cd6"/>
+<text x="76" y="37" font-size="19" font-weight="700">Open the interactive portfolio</text>
+<text x="76" y="60" font-size="13" style="fill:#8b95a7">Abrir el portafolio interactivo: terminal, casos de estudio y más</text>
+<g class="a"><path d="M826 42 H862 M848 28 L862 42 L848 56" fill="none" stroke="#e05cd6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
