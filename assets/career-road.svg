@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 262" width="900" height="262" role="img" aria-label="Career timeline as a road: KopTup 2020, Tata Consultancy Services 2021 and 2023, SoftMas 2024, Globa 2025 and Flimp 2025 to today."><title>Career timeline as a road: KopTup 2020, Tata Consultancy Services 2021 and 2023, SoftMas 2024, Globa 2025 and Flimp 2025 to today.</title><style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#e8ebf1}
+.m{fill:#8b95a7}
+.w{transform-box:fill-box;transform-origin:center;animation:spin .55s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.go{animation:go 18s cubic-bezier(.4,0,.6,1) infinite}
+.dash{animation:dsh .6s linear infinite}
+@keyframes dsh{to{stroke-dashoffset:-40}}
+.smoke{transform-box:fill-box;transform-origin:center;animation:sm 1.1s ease-out infinite}
+@keyframes sm{0%{transform:translate(0,0) scale(.5);opacity:.5}100%{transform:translate(-26px,-10px) scale(1.6);opacity:0}}
+.beam{animation:bm 0.9231s ease-in-out infinite}
+@keyframes bm{50%{opacity:.34}}
+.now{transform-box:fill-box;transform-origin:center;animation:nw 0.9231s ease-out infinite}
+@keyframes nw{0%{transform:scale(1);opacity:.8}100%{transform:scale(2.6);opacity:0}}
+@keyframes go{0.00%,4.00%{transform:translateX(18px)}16.67%,20.67%{transform:translateX(166px)}33.33%,37.33%{transform:translateX(314px)}50.00%,54.00%{transform:translateX(462px)}66.67%,70.67%{transform:translateX(610px)}83.33%,87.33%{transform:translateX(758px)}95.00%{transform:translateX(758px);opacity:1}100%{transform:translateX(758px);opacity:0}}@keyframes p0{0%,0.00%{fill:#2a3242}0.50%,94%{fill:#e05cd6}100%{fill:#2a3242}}
+@keyframes p1{0%,16.17%{fill:#2a3242}17.17%,94%{fill:#e05cd6}100%{fill:#2a3242}}
+@keyframes p2{0%,32.83%{fill:#2a3242}33.83%,94%{fill:#e05cd6}100%{fill:#2a3242}}
+@keyframes p3{0%,49.50%{fill:#2a3242}50.50%,94%{fill:#e05cd6}100%{fill:#2a3242}}
+@keyframes p4{0%,66.17%{fill:#2a3242}67.17%,94%{fill:#e05cd6}100%{fill:#2a3242}}
+@keyframes p5{0%,82.83%{fill:#2a3242}83.83%,94%{fill:#e05cd6}100%{fill:#2a3242}}
+</style><rect width="900" height="262" rx="14" fill="#0b0e14"/><text x="24" y="34" font-size="15" font-weight="700" letter-spacing="2">THE ROAD SO FAR</text>
+<text x="876" y="34" font-size="12" text-anchor="end" style="fill:#8b95a7">06/2020 → today</text>
+<text x="80" y="72" font-size="14" font-weight="700" text-anchor="middle">KopTup</text>
+<text x="80" y="92" font-size="11" text-anchor="middle" style="fill:#8b95a7">Freelancer</text>
+<text x="80" y="112" font-size="11" text-anchor="middle" style="fill:#f2b45a">06/2020</text>
+<line x1="80" x2="80" y1="120" y2="205" stroke="#2a3242" stroke-dasharray="3 4"/>
+<text x="228" y="72" font-size="14" font-weight="700" text-anchor="middle">TCS</text>
+<text x="228" y="92" font-size="11" text-anchor="middle" style="fill:#8b95a7">Backend</text>
+<text x="228" y="112" font-size="11" text-anchor="middle" style="fill:#f2b45a">02/2021</text>
+<line x1="228" x2="228" y1="120" y2="205" stroke="#2a3242" stroke-dasharray="3 4"/>
+<text x="376" y="72" font-size="14" font-weight="700" text-anchor="middle">TCS</text>
+<text x="376" y="92" font-size="11" text-anchor="middle" style="fill:#8b95a7">AS400</text>
+<text x="376" y="112" font-size="11" text-anchor="middle" style="fill:#f2b45a">09/2023</text>
+<line x1="376" x2="376" y1="120" y2="205" stroke="#2a3242" stroke-dasharray="3 4"/>
+<text x="524" y="72" font-size="14" font-weight="700" text-anchor="middle">SoftMas</text>
+<text x="524" y="92" font-size="11" text-anchor="middle" style="fill:#8b95a7">Dynamics 365</text>
+<text x="524" y="112" font-size="11" text-anchor="middle" style="fill:#f2b45a">08/2024</text>
+<line x1="524" x2="524" y1="120" y2="205" stroke="#2a3242" stroke-dasharray="3 4"/>
+<text x="672" y="72" font-size="14" font-weight="700" text-anchor="middle">Globa</text>
+<text x="672" y="92" font-size="11" text-anchor="middle" style="fill:#8b95a7">Backend</text>
+<text x="672" y="112" font-size="11" text-anchor="middle" style="fill:#f2b45a">02/2025</text>
+<line x1="672" x2="672" y1="120" y2="205" stroke="#2a3242" stroke-dasharray="3 4"/>
+<text x="820" y="72" font-size="14" font-weight="700" text-anchor="middle">Flimp</text>
+<text x="820" y="92" font-size="11" text-anchor="middle" style="fill:#8b95a7">Full Stack</text>
+<text x="820" y="112" font-size="11" text-anchor="middle" style="fill:#f2b45a">09/2025</text>
+<line x1="820" x2="820" y1="120" y2="205" stroke="#2a3242" stroke-dasharray="3 4"/>
+
+<rect y="207" width="900" height="42" fill="#121722"/>
+<line x1="0" x2="900" y1="207" y2="207" stroke="#2a3242" stroke-width="2"/>
+<line class="dash" x1="0" x2="900" y1="229" y2="229" stroke="#2a3242" stroke-width="2.5" stroke-dasharray="22 18"/>
+<circle cx="80" cy="207" r="7" style="animation:p0 18s linear infinite" fill="#2a3242"/><circle cx="228" cy="207" r="7" style="animation:p1 18s linear infinite" fill="#2a3242"/><circle cx="376" cy="207" r="7" style="animation:p2 18s linear infinite" fill="#2a3242"/><circle cx="524" cy="207" r="7" style="animation:p3 18s linear infinite" fill="#2a3242"/><circle cx="672" cy="207" r="7" style="animation:p4 18s linear infinite" fill="#2a3242"/><circle cx="820" cy="207" r="7" style="animation:p5 18s linear infinite" fill="#2a3242"/>
+<circle class="now" cx="820" cy="207" r="9" fill="none" stroke="#e05cd6" stroke-width="2"/>
+<g class="go"><g transform="translate(0,150)"><circle class="smoke" cx="8" cy="42" r="6" fill="#8b95a7"/><circle class="smoke" cx="6" cy="42" r="5" fill="#8b95a7" style="animation-delay:.45s"/><g>
+<path d="M95 20 L150 7 L150 33 Z" fill="#f2b45a" opacity=".16" class="beam"/>
+<g class="w"><circle cx="22" cy="50" r="17" fill="none" stroke="#e8ebf1" stroke-width="4"/><g stroke="#e8ebf1" stroke-width="1.2" opacity=".8"><line x1="22" y1="36" x2="22" y2="64" transform="rotate(0 22 50)"/><line x1="22" y1="36" x2="22" y2="64" transform="rotate(45 22 50)"/><line x1="22" y1="36" x2="22" y2="64" transform="rotate(90 22 50)"/><line x1="22" y1="36" x2="22" y2="64" transform="rotate(135 22 50)"/></g><circle cx="22" cy="50" r="3" fill="#e8ebf1"/></g><g class="w"><circle cx="100" cy="50" r="17" fill="none" stroke="#e8ebf1" stroke-width="4"/><g stroke="#e8ebf1" stroke-width="1.2" opacity=".8"><line x1="100" y1="36" x2="100" y2="64" transform="rotate(0 100 50)"/><line x1="100" y1="36" x2="100" y2="64" transform="rotate(45 100 50)"/><line x1="100" y1="36" x2="100" y2="64" transform="rotate(90 100 50)"/><line x1="100" y1="36" x2="100" y2="64" transform="rotate(135 100 50)"/></g><circle cx="100" cy="50" r="3" fill="#e8ebf1"/></g>
+<path d="M100 50 L84 16" stroke="#e8ebf1" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M84 16 L72 10" stroke="#e8ebf1" stroke-width="3" stroke-linecap="round"/>
+<path d="M22 50 L52 42 L74 42" stroke="#e8ebf1" stroke-width="3" fill="none" stroke-linejoin="round"/>
+<path d="M50 23 Q62 11 80 20 L79 31 Q64 36 50 32 Z" fill="#e05cd6"/>
+<path d="M12 18 L30 24 Q42 20 52 25 L50 32 L28 32 Z" fill="#e8ebf1"/>
+<rect x="50" y="34" width="24" height="16" rx="3" fill="#3a4356" stroke="#e8ebf1" stroke-width="1"/>
+<path d="M60 50 Q44 52 8 44" stroke="#f2b45a" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<circle cx="90" cy="20" r="5" fill="#f2b45a"/>
+</g></g></g></svg>
