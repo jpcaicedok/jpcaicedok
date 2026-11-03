@@ -1,38 +1,86 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Juan Pablo Caicedo, Full Stack and Backend Developer in Bogotá, Colombia. Animated equalizer and motorcycle."/>
-</p>
+<a href="https://jpcaicedok.github.io/jpcaicedok/"><img src="./assets/header.svg" width="100%" alt="Juan Pablo Caicedo, Full Stack and Backend Developer in Bogotá, Colombia. Animated equalizer and motorcycle."/></a>
+
+<a href="https://jpcaicedok.github.io/jpcaicedok/"><img src="./assets/cta.svg" width="100%" alt="Open the interactive portfolio"/></a>
 
 <p align="center">
-  <a href="#english">English</a> · <a href="#español">Español</a> · <a href="https://www.linkedin.com/in/juanpablocaicedo">LinkedIn</a>
+  <a href="https://jpcaicedok.github.io/jpcaicedok/">Portfolio</a> · <a href="https://www.linkedin.com/in/juanpablocaicedo">LinkedIn</a> · <a href="#english">English</a> · <a href="#español">Español</a> · <a href="#stack">Stack</a> · <a href="#career--trayectoria">Career</a>
 </p>
 
 ## English
 
-I'm a Full Stack Developer with 5+ years in software and a strong backend foundation. I build scalable systems and AI applications using OpenAI, Claude and Gemini. Off the clock, it's classical music, techno and motorcycles.
+I'm a Full Stack Developer with 5+ years in software and a strong backend foundation. I build scalable systems and AI applications using OpenAI, Claude and Gemini.
 
-### Recent work
+**Looking for:** Full Stack Developer or Backend Developer roles, in Colombia or remote internationally. English level: B1, still studying.
 
-- **AI chatbot:** migrated services from Node.js/Kotlin to Python with Django, reduced latency in critical microservices and optimized PostgreSQL for heavy workloads.
-- **PLANselect:** replaced a third-party recommendation engine with our own in Python, moving clients gradually and without service interruptions. Redesigned the employee flow in React and TypeScript with WCAG 2.2 AA accessibility.
-- **AI QA bot (internal tool, not yet in use):** Claude and Playwright agent that verifies bugs from Jira tickets. On complex tickets, I cut cost by ~40%, steps by ~35% and time by almost half.
+### Case studies
 
-### Looking for
+<details>
+<summary><b>AI chatbot: from Node.js/Kotlin to Python</b></summary>
 
-Full Stack Developer or Backend Developer roles, in Colombia or remote internationally. English level: B1, still studying.
+- Took ownership of the project and drove architecture improvements.
+- Migrated backend services to Python with Django, improving maintainability and performance.
+- Improved resilience, reduced latency in critical microservices and optimized PostgreSQL for heavy workloads.
+- Expanded OpenAI API usage: score evaluation, chunk selection, Agents vs Assistants decision and debugging tools.
+
+</details>
+
+<details>
+<summary><b>PLANselect: swapping the recommendation engine with clients on board</b></summary>
+
+- Replaced a third-party engine with our own in Python, using a per-employer V1/V2 switch to move clients gradually and without service interruptions.
+- Redesigned the employee flow in React and TypeScript: mobile-ready, in English and Spanish.
+- Implemented WCAG 2.2 AA accessibility and fixed the issues from a full audit.
+- Integrated AI: executive summaries and plan autofill from PDFs using an LLM.
+
+</details>
+
+<details>
+<summary><b>AI QA bot (internal tool, not yet in use)</b></summary>
+
+- Designed and built the full system: Claude agent with Playwright, FastAPI with PostgreSQL, Google SSO and a React dashboard.
+- Reads Jira tickets and returns a verdict per acceptance criterion, with screenshots, video and logs.
+- When it solves a ticket, it records a fixed script that can rerun without paying for AI again.
+- On complex tickets: ~40% lower cost, ~35% fewer steps and almost half the time.
+
+</details>
 
 ## Español
 
-Soy Full Stack Developer con más de 5 años en software y una sólida base backend. Construyo sistemas escalables y aplicaciones con IA usando OpenAI, Claude y Gemini. Fuera del trabajo: música clásica, techno y motos.
+Soy Full Stack Developer con más de 5 años en software y una sólida base backend. Construyo sistemas escalables y aplicaciones con IA usando OpenAI, Claude y Gemini.
 
-### Trabajo reciente
+**Qué busco:** cargos de Full Stack Developer o Backend Developer, en Colombia o en remoto internacional. Inglés B1, en formación.
 
-- **Chatbot con IA:** migré servicios de Node.js/Kotlin a Python con Django, reduje la latencia en microservicios críticos y optimicé PostgreSQL para cargas intensivas.
-- **PLANselect:** reemplacé el motor de recomendaciones de un proveedor externo por uno propio en Python, con migración gradual y sin cortes de servicio. Rediseñé el flujo del empleado en React y TypeScript con accesibilidad WCAG 2.2 AA.
-- **Bot de QA con IA (herramienta interna, aún no en uso):** agente con Claude y Playwright que verifica bugs a partir de tickets de Jira. En tickets complejos bajé el costo ~40 %, los pasos ~35 % y el tiempo a casi la mitad.
+### Casos de estudio
 
-### Qué busco
+<details>
+<summary><b>Chatbot con IA: de Node.js/Kotlin a Python</b></summary>
 
-Cargos de Full Stack Developer o Backend Developer, en Colombia o en remoto internacional. Inglés B1, en formación.
+- Asumí la propiedad del proyecto e impulsé mejoras de arquitectura.
+- Migré servicios backend a Python con Django, mejorando la mantenibilidad y el rendimiento.
+- Mejoré la resiliencia, reduje la latencia en microservicios críticos y optimicé PostgreSQL para cargas intensivas.
+- Amplié el uso de la API de OpenAI: evaluación de puntajes, selección de chunks, decisión Agents vs Assistants y herramientas de depuración.
+
+</details>
+
+<details>
+<summary><b>PLANselect: cambiar el motor de recomendaciones con los clientes a bordo</b></summary>
+
+- Reemplacé un motor externo por uno propio en Python, con un switch V1/V2 por empleador para migrar clientes de forma gradual y sin cortes de servicio.
+- Rediseñé el flujo del empleado en React y TypeScript: adaptado a móvil, en inglés y español.
+- Implementé accesibilidad WCAG 2.2 AA y corregí una auditoría completa.
+- Integré IA: resúmenes ejecutivos y autocompletado de planes desde PDF con LLM.
+
+</details>
+
+<details>
+<summary><b>Bot de QA con IA (herramienta interna, aún no en uso)</b></summary>
+
+- Diseñé y construí el sistema completo: agente con Claude y Playwright, FastAPI con PostgreSQL, Google SSO y panel en React.
+- Lee tickets de Jira y entrega un veredicto por criterio de aceptación, con capturas, video y logs.
+- Cuando resuelve un ticket, graba un script fijo que se repite sin volver a pagar IA.
+- En tickets complejos: costo ~40 % menor, ~35 % menos pasos y casi la mitad del tiempo.
+
+</details>
 
 ## Stack
 
@@ -61,8 +109,6 @@ Cargos de Full Stack Developer o Backend Developer, en Colombia o en remoto inte
 
 <img src="./assets/qa-bot-flow.svg" width="100%" alt="Flow of an internal AI QA bot not yet in use: Jira ticket, Claude agent, Playwright browser and a verdict with evidence, plus FastAPI, PostgreSQL and a React dashboard. On complex tickets: about 40 percent lower cost, about 35 percent fewer steps and almost half the time."/>
 
-## Off the clock / Fuera del trabajo
+<img src="./assets/off-the-clock.svg" width="100%" alt="Three animated panels: a music staff with moving notes, a step sequencer and a motorcycle on the road."/>
 
-<img src="./assets/off-the-clock.svg" width="100%" alt="Three animated panels: a music staff for classical music, a step sequencer at 130 BPM for techno and a motorcycle on the road."/>
-
-<img src="./assets/footer.svg" width="100%" alt="Animated piano keyboard."/>
+<a href="https://jpcaicedok.github.io/jpcaicedok/"><img src="./assets/footer.svg" width="100%" alt="Animated piano keyboard, link to the interactive portfolio."/></a>
